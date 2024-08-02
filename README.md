@@ -15,7 +15,7 @@
 
 2. Run the fat.py with path of rootfs.squashfs
     ``` bash
-    python3 ./fat.py ~/CVE-recurrent/rootfs.squashfs
+    python3 ./fat.py ~/NetGear-WNAP320-CVEs/rootfs.squashfs
     ```
 
 The website will open in http://192.168.0.100
